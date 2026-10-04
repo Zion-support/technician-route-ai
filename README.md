@@ -20,3 +20,6 @@ AI scheduling & routing for field technicians: multi-stop optimization, live tra
 - 📓 Apps hub: https://ziontechgroup.com/apps/ · 💳 Plans: https://ziontechgroup.com/en/plans/ · 🔎 Discovery: https://ziontechgroup.com/discovery/
 
 © 2026 Zion Tech Group · https://ziontechgroup.com
+
+## Part of the Zion App Network
+🔧 Suite: [Field Service & Dispatch Ops AI Suite](https://github.com/Zion-support/zion-network/blob/main/spotlights/field-service-dispatch-ops-suite.md) · 🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · 📣 [Homepage Spotlight](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_OCT4_FIELDOPS.md) · 🔎 [Free AI Discovery](https://ziontechgroup.com/app-network-discovery.html) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
